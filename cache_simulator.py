@@ -1,9 +1,6 @@
 """
 ==============================================
-  CACHE SIMULATOR - IE2064 Final Assignment
-  Author: (Your Group / Name)
-  Date: October 2025
-  Course: Advanced Computer Organization (IE2064)
+  CACHE SIMULATOR 
 ==============================================
 
 Description:
